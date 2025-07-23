@@ -33,11 +33,18 @@ Berikut ini adalah jawaban dari masing-masing soal yang diimplementasikan dalam 
 
 ## 🛠️ Langkah Install & Run
 
-### 1. Unzip project
+### Opsi 1: Clone via Git
 
 ```bash
-unzip skill-test-golang.zip
-cd skill-test-golang
+git clone https://github.com/andrianggoro21/test-go-bumisakti-multi-sinergi.git
+cd test-go-bumisakti-multi-sinergi
+```
+
+### Opsi 2. Unzip project
+
+```bash
+unzip test-go-bumisakti-multi-sinergi.zip
+cd test-go-bumisakti-multi-sinergi
 ```
 
 ### 2. Run main.go
